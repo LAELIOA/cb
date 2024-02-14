@@ -6,4 +6,6 @@ public abstract class CommonProxy {
     public void init() {}
 
     public void postInit() {}
+
+    abstract public void registerBlockModels();
 }
