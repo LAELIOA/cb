@@ -1,9 +1,11 @@
 package com.laelioa.cbmod.proxy;
 
 import com.laelioa.cbmod.Reference;
+import com.laelioa.cbmod.blocks.BlockAsphalt;
 import com.laelioa.cbmod.init.CbBlocks;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;
+import net.minecraft.util.ResourceLocation;
 import net.minecraftforge.client.model.ModelLoader;
 
 public class ClientProxy extends CommonProxy {
@@ -24,10 +26,12 @@ public class ClientProxy extends CommonProxy {
 
     @Override
     public void registerBlockModels() {
-        ModelLoader.setCustomModelResourceLocation(
-                Item.getItemFromBlock(CbBlocks.ASPHALT), 0, new ModelResourceLocation(
-                        Reference.MODID + ":asphalt", "inventory"
-                )
-        );
+        for (BlockAsphalt.AsphaltType type : BlockAsphalt.AsphaltType.values()) {
+            ModelLoader.setCustomModelResourceLocation(
+                    Item.getItemFromBlock(CbBlocks.ASPHALT), type.ordinal(), new ModelResourceLocation(
+                            new ResourceLocation(Reference.MODID, "asphalt_" + type.getName()), "inventory"
+                    )
+            );
+        }
     }
 }

@@ -1,2 +1,4 @@
 itemGroup.road=道路
-tile.asphalt_unlocalized.name=沥青
+
+tile.asphalt_unlocalized.default.name=沥青
+tile.asphalt_unlocalized.new.name=沥青（新）

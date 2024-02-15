@@ -1,2 +1,4 @@
 itemGroup.road=Road
-tile.asphalt_unlocalized.name=Asphalt
+
+tile.asphalt_unlocalized.default.name=Asphalt
+tile.asphalt_unlocalized.new.name=Asphalt (New)

@@ -1,7 +1,6 @@
 {
   "variants": {
-    "normal": {
-      "model": "cbmod:asphalt_model"
-    }
+    "type=default": { "model": "cbmod:asphalt_model" },
+    "type=new": { "model": "cbmod:asphalt_new_model" }
   }
 }

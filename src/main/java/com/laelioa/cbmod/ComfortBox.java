@@ -1,6 +1,5 @@
 package com.laelioa.cbmod;
 
-import com.laelioa.cbmod.init.CbBlocks;
 import com.laelioa.cbmod.proxy.CommonProxy;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraftforge.fml.common.Mod;

@@ -1,2 +1,4 @@
 itemGroup.road=道
-tile.asphalt_unlocalized.name=アスファルト
+
+tile.asphalt_unlocalized.default.name=アスファルト
+tile.asphalt_unlocalized.new.name=アスファルト（新しい）
