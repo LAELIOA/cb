@@ -9,28 +9,20 @@ import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 
+@Mod.EventBusSubscriber(modid = Reference.MODID)
 public class RegistryHandler {
-    @Mod.EventBusSubscriber(modid = Reference.MODID)
-    public static class Blocks {
-        @SubscribeEvent
-        public static void registerBlocks(RegistryEvent.Register<Block> event) {
-            CbBlocks.registerBlocks(event.getRegistry());
-        }
+    @SubscribeEvent
+    public static void registerBlocks(RegistryEvent.Register<Block> event) {
+        CbBlocks.registerBlocks(event.getRegistry());
     }
 
-    @Mod.EventBusSubscriber(modid = Reference.MODID)
-    public static class Items {
-        @SubscribeEvent
-        public static void registerItems(RegistryEvent.Register<Item> event) {
-            CbBlocks.registerItemBlocks(event.getRegistry());
-        }
+    @SubscribeEvent
+    public static void registerItems(RegistryEvent.Register<Item> event) {
+        CbBlocks.registerItemBlocks(event.getRegistry());
     }
 
-    @Mod.EventBusSubscriber(modid = Reference.MODID)
-    public static class Models {
-        @SubscribeEvent
-        public static void registerModels(ModelRegistryEvent event) {
-            ComfortBox.proxy.registerBlockModels();
-        }
+    @SubscribeEvent
+    public static void registerModels(ModelRegistryEvent event) {
+        ComfortBox.proxy.registerBlockModels();
     }
 }

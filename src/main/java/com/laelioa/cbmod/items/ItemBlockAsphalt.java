@@ -1,5 +1,6 @@
 package com.laelioa.cbmod.items;
 
+import com.laelioa.cbmod.Reference;
 import com.laelioa.cbmod.blocks.BlockAsphalt;
 import com.laelioa.cbmod.init.CbBlocks;
 import net.minecraft.item.ItemBlock;
@@ -10,12 +11,13 @@ import javax.annotation.Nonnull;
 public class ItemBlockAsphalt extends ItemBlock {
     public ItemBlockAsphalt() {
         super(CbBlocks.ASPHALT);
+        setRegistryName(Reference.MODID, "asphalt");
         setHasSubtypes(true);
     }
 
     @Override
-    public int getMetadata(int damage) {
-        return damage;
+    public int getMetadata(int meta) {
+        return meta;
     }
 
     @Nonnull

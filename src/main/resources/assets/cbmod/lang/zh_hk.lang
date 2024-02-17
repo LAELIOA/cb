@@ -2,3 +2,13 @@ itemGroup.road=道路
 
 tile.asphalt_unlocalized.default.name=瀝青
 tile.asphalt_unlocalized.new.name=瀝青（新）
+tile.asphalt_unlocalized.white.name=瀝青（白）
+tile.asphalt_unlocalized.yellow.name=瀝青（黃）
+tile.asphalt_unlocalized.white_line.name=瀝青（白線）
+tile.asphalt_unlocalized.yellow_line.name=瀝青（黃線）
+tile.asphalt_unlocalized.double_white_line.name=瀝青（雙白線）
+tile.asphalt_unlocalized.double_yellow_line.name=瀝青（雙黃線）
+tile.asphalt_unlocalized.slanted_white_line.name=瀝青（白斜線）
+tile.asphalt_unlocalized.slanted_yellow_line.name=瀝青（黃斜線）
+tile.asphalt_unlocalized.slanted_double_white_line.name=瀝青（白雙斜線）
+tile.asphalt_unlocalized.slanted_double_yellow_line.name=瀝青（黃雙斜線）

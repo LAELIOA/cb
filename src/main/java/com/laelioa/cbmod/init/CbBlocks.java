@@ -18,6 +18,6 @@ public class CbBlocks {
     }
 
     public static void registerItemBlocks(IForgeRegistry<Item> registry) {
-        registry.register(CbItems.init(new ItemBlockAsphalt(), "asphalt"));
+        registry.register(new ItemBlockAsphalt());
     }
 }

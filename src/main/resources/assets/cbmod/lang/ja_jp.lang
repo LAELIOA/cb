@@ -2,3 +2,13 @@ itemGroup.road=道
 
 tile.asphalt_unlocalized.default.name=アスファルト
 tile.asphalt_unlocalized.new.name=アスファルト（新しい）
+tile.asphalt_unlocalized.white.name=アスファルト（白）
+tile.asphalt_unlocalized.yellow.name=アスファルト（黄色）
+tile.asphalt_unlocalized.white_line.name=アスファルト（白い線）
+tile.asphalt_unlocalized.yellow_line.name=アスファルト（黄色の線）
+tile.asphalt_unlocalized.double_white_line.name=アスファルト（白い二重線）
+tile.asphalt_unlocalized.double_yellow_line.name=アスファルト（黄色の二重線）
+tile.asphalt_unlocalized.slanted_white_line.name=アスファルト（白いスラッシュ）
+tile.asphalt_unlocalized.slanted_yellow_line.name=アスファルト（黄色のスラッシュ）
+tile.asphalt_unlocalized.slanted_double_white_line.name=アスファルト（白い二重スラッシュ）
+tile.asphalt_unlocalized.slanted_double_yellow_line.name=アスファルト（黄色の二重スラッシュ）

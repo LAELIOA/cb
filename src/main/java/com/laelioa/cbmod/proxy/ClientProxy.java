@@ -27,11 +27,9 @@ public class ClientProxy extends CommonProxy {
     @Override
     public void registerBlockModels() {
         for (BlockAsphalt.AsphaltType type : BlockAsphalt.AsphaltType.values()) {
-            ModelLoader.setCustomModelResourceLocation(
-                    Item.getItemFromBlock(CbBlocks.ASPHALT), type.ordinal(), new ModelResourceLocation(
-                            new ResourceLocation(Reference.MODID, "asphalt_" + type.getName()), "inventory"
-                    )
-            );
+            ResourceLocation resourceLocation = new ResourceLocation(Reference.MODID, "asphalt/asphalt_" + type.getName());
+            ModelResourceLocation modelResourceLocation = new ModelResourceLocation(resourceLocation, "inventory");
+            ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(CbBlocks.ASPHALT), type.ordinal(), modelResourceLocation);
         }
     }
 }

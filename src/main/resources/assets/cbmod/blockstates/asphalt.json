@@ -1,6 +1,16 @@
 {
   "variants": {
-    "type=default": { "model": "cbmod:asphalt_model" },
-    "type=new": { "model": "cbmod:asphalt_new_model" }
+    "type=default": { "model": "cbmod:asphalt/asphalt_default_model" },
+    "type=new": { "model": "cbmod:asphalt/asphalt_new_model" },
+    "type=white": { "model": "cbmod:asphalt/asphalt_white_model" },
+    "type=yellow": { "model": "cbmod:asphalt/asphalt_yellow_model" },
+    "type=white_line": { "model": "cbmod:asphalt/asphalt_white_line_model" },
+    "type=yellow_line": { "model": "cbmod:asphalt/asphalt_yellow_line_model" },
+    "type=double_white_line": { "model": "cbmod:asphalt/asphalt_double_white_line_model" },
+    "type=double_yellow_line": { "model": "cbmod:asphalt/asphalt_double_yellow_line_model" },
+    "type=slanted_white_line": { "model": "cbmod:asphalt/asphalt_slanted_white_line_model" },
+    "type=slanted_yellow_line": { "model": "cbmod:asphalt/asphalt_slanted_yellow_line_model" },
+    "type=slanted_double_white_line": { "model": "cbmod:asphalt/asphalt_slanted_double_white_line_model" },
+    "type=slanted_double_yellow_line": { "model": "cbmod:asphalt/asphalt_slanted_double_yellow_line_model" }
   }
 }

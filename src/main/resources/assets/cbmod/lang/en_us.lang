@@ -2,3 +2,13 @@ itemGroup.road=Road
 
 tile.asphalt_unlocalized.default.name=Asphalt
 tile.asphalt_unlocalized.new.name=Asphalt (New)
+tile.asphalt_unlocalized.white.name=Asphalt (White)
+tile.asphalt_unlocalized.yellow.name=Asphalt (Yellow)
+tile.asphalt_unlocalized.white_line.name=Asphalt (White Line)
+tile.asphalt_unlocalized.yellow_line.name=Asphalt (Yellow Line)
+tile.asphalt_unlocalized.double_white_line.name=Asphalt (Double White Line)
+tile.asphalt_unlocalized.double_yellow_line.name=Asphalt (Double Yellow Line)
+tile.asphalt_unlocalized.slanted_white_line.name=Asphalt (Slanted White Line)
+tile.asphalt_unlocalized.slanted_yellow_line.name=Asphalt (Slanted Yellow Line)
+tile.asphalt_unlocalized.slanted_double_white_line.name=Asphalt (Slanted Double White Line)
+tile.asphalt_unlocalized.slanted_double_yellow_line.name=Asphalt (Slanted Double Yellow Line)
