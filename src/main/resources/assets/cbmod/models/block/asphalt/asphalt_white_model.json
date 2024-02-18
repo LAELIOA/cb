@@ -1,6 +1,7 @@
 {
-  "parent": "block/cube_all",
+  "parent": "block/cube_top",
   "textures": {
-    "all": "cbmod:blocks/asphalt/asphalt_white"
+    "up": "cbmod:blocks/asphalt/asphalt_white",
+    "side": "cbmod:blocks/asphalt/asphalt_default"
   }
 }
