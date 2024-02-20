@@ -2,8 +2,10 @@ package com.laelioa.cbmod;
 
 import com.laelioa.cbmod.init.CbBlocks;
 import net.minecraft.creativetab.CreativeTabs;
-import net.minecraft.item.Item;
+import net.minecraft.init.Items;
 import net.minecraft.item.ItemStack;
+
+import javax.annotation.Nonnull;
 
 public class CbTab extends CreativeTabs {
     private final String LABEL;
@@ -13,13 +15,14 @@ public class CbTab extends CreativeTabs {
         LABEL = label;
     }
 
+    @Nonnull
     @Override
     public ItemStack getTabIconItem() {
         switch (LABEL) {
             case "road":
-                return new ItemStack(Item.getItemFromBlock(CbBlocks.ASPHALT));
+                return new ItemStack(CbBlocks.ASPHALT, 1, 4);
             default:
-                return null;
+                return new ItemStack(Items.AIR);
         }
     }
 }
