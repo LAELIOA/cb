@@ -12,3 +12,22 @@ tile.asphalt_unlocalized.slanted_white_line.name=Asphalt (Slanted White Line)
 tile.asphalt_unlocalized.slanted_yellow_line.name=Asphalt (Slanted Yellow Line)
 tile.asphalt_unlocalized.slanted_double_white_line.name=Asphalt (Slanted Double White Line)
 tile.asphalt_unlocalized.slanted_double_yellow_line.name=Asphalt (Slanted Double Yellow Line)
+
+itemGroup.inc=Inception
+
+tile.inc_carpet_unlocalized_0.name=Carpet 1
+tile.inc_carpet_unlocalized_1.name=Carpet 2
+tile.inc_carpet_unlocalized_2.name=Carpet 3
+tile.inc_carpet_unlocalized_3.name=Carpet 4
+tile.inc_carpet_unlocalized_4.name=Carpet 5
+tile.inc_carpet_unlocalized_5.name=Carpet 6
+tile.inc_carpet_unlocalized_6.name=Carpet 7
+tile.inc_carpet_unlocalized_7.name=Carpet 8
+tile.inc_carpet_unlocalized_8.name=Carpet 9
+tile.inc_carpet_unlocalized_9.name=Carpet 10
+tile.inc_carpet_unlocalized_10.name=Carpet 11
+tile.inc_carpet_unlocalized_11.name=Carpet 12
+tile.inc_carpet_unlocalized_12.name=Carpet 13
+tile.inc_carpet_unlocalized_13.name=Carpet 14
+tile.inc_carpet_unlocalized_14.name=Carpet 15
+tile.inc_carpet_unlocalized_15.name=Carpet 16

@@ -12,3 +12,22 @@ tile.asphalt_unlocalized.slanted_white_line.name=アスファルト（白いス�
 tile.asphalt_unlocalized.slanted_yellow_line.name=アスファルト（黄色のスラッシュ）
 tile.asphalt_unlocalized.slanted_double_white_line.name=アスファルト（白い二重スラッシュ）
 tile.asphalt_unlocalized.slanted_double_yellow_line.name=アスファルト（黄色の二重スラッシュ）
+
+itemGroup.inc=Inception
+
+tile.inc_carpet_unlocalized_0.name=カーペット 1
+tile.inc_carpet_unlocalized_1.name=カーペット 2
+tile.inc_carpet_unlocalized_2.name=カーペット 3
+tile.inc_carpet_unlocalized_3.name=カーペット 4
+tile.inc_carpet_unlocalized_4.name=カーペット 5
+tile.inc_carpet_unlocalized_5.name=カーペット 6
+tile.inc_carpet_unlocalized_6.name=カーペット 7
+tile.inc_carpet_unlocalized_7.name=カーペット 8
+tile.inc_carpet_unlocalized_8.name=カーペット 9
+tile.inc_carpet_unlocalized_9.name=カーペット 10
+tile.inc_carpet_unlocalized_10.name=カーペット 11
+tile.inc_carpet_unlocalized_11.name=カーペット 12
+tile.inc_carpet_unlocalized_12.name=カーペット 13
+tile.inc_carpet_unlocalized_13.name=カーペット 14
+tile.inc_carpet_unlocalized_14.name=カーペット 15
+tile.inc_carpet_unlocalized_15.name=カーペット 16

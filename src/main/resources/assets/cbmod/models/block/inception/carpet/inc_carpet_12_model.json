@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cbmod:blocks/inception/carpet/inc_carpet_12"
+  }
+}

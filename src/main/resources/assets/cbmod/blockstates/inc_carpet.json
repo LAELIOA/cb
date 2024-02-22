@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "type=0": { "model": "cbmod:inception/carpet/inc_carpet_0_model" },
+    "type=1": { "model": "cbmod:inception/carpet/inc_carpet_1_model" },
+    "type=2": { "model": "cbmod:inception/carpet/inc_carpet_2_model" },
+    "type=3": { "model": "cbmod:inception/carpet/inc_carpet_3_model" },
+    "type=4": { "model": "cbmod:inception/carpet/inc_carpet_4_model" },
+    "type=5": { "model": "cbmod:inception/carpet/inc_carpet_5_model" },
+    "type=6": { "model": "cbmod:inception/carpet/inc_carpet_6_model" },
+    "type=7": { "model": "cbmod:inception/carpet/inc_carpet_7_model" },
+    "type=8": { "model": "cbmod:inception/carpet/inc_carpet_8_model" },
+    "type=9": { "model": "cbmod:inception/carpet/inc_carpet_9_model" },
+    "type=10": { "model": "cbmod:inception/carpet/inc_carpet_10_model" },
+    "type=11": { "model": "cbmod:inception/carpet/inc_carpet_11_model" },
+    "type=12": { "model": "cbmod:inception/carpet/inc_carpet_12_model" },
+    "type=13": { "model": "cbmod:inception/carpet/inc_carpet_13_model" },
+    "type=14": { "model": "cbmod:inception/carpet/inc_carpet_14_model" },
+    "type=15": { "model": "cbmod:inception/carpet/inc_carpet_15_model" }
+  }
+}

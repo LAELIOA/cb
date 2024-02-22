@@ -12,3 +12,22 @@ tile.asphalt_unlocalized.slanted_white_line.name=沥青（白斜线）
 tile.asphalt_unlocalized.slanted_yellow_line.name=沥青（黄斜线）
 tile.asphalt_unlocalized.slanted_double_white_line.name=沥青（白双斜线）
 tile.asphalt_unlocalized.slanted_double_yellow_line.name=沥青（黄双斜线）
+
+itemGroup.inc=Inception
+
+tile.inc_carpet_unlocalized_0.name=地毯 1
+tile.inc_carpet_unlocalized_1.name=地毯 2
+tile.inc_carpet_unlocalized_2.name=地毯 3
+tile.inc_carpet_unlocalized_3.name=地毯 4
+tile.inc_carpet_unlocalized_4.name=地毯 5
+tile.inc_carpet_unlocalized_5.name=地毯 6
+tile.inc_carpet_unlocalized_6.name=地毯 7
+tile.inc_carpet_unlocalized_7.name=地毯 8
+tile.inc_carpet_unlocalized_8.name=地毯 9
+tile.inc_carpet_unlocalized_9.name=地毯 10
+tile.inc_carpet_unlocalized_10.name=地毯 11
+tile.inc_carpet_unlocalized_11.name=地毯 12
+tile.inc_carpet_unlocalized_12.name=地毯 13
+tile.inc_carpet_unlocalized_13.name=地毯 14
+tile.inc_carpet_unlocalized_14.name=地毯 15
+tile.inc_carpet_unlocalized_15.name=地毯 16
