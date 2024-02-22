@@ -37,5 +37,11 @@ public class ClientProxy extends CommonProxy {
             ModelResourceLocation modelResourceLocation = new ModelResourceLocation(resourceLocation, "inventory");
             ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(CbBlocks.INC_CARPET), meta, modelResourceLocation);
         }
+
+        for (int meta = 0; meta < 2; meta++) {
+            ResourceLocation resourceLocation = new ResourceLocation(Reference.MODID, "inception/carpet/inc_carpet0_" + meta);
+            ModelResourceLocation modelResourceLocation = new ModelResourceLocation(resourceLocation, "inventory");
+            ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(CbBlocks.INC_CARPET0), meta, modelResourceLocation);
+        }
     }
 }
