@@ -1,4 +1,4 @@
-itemGroup.road=道
+itemGroup.road=道路
 
 tile.asphalt_unlocalized.default.name=アスファルト
 tile.asphalt_unlocalized.new.name=アスファルト（新しい）
@@ -8,12 +8,12 @@ tile.asphalt_unlocalized.white_line.name=アスファルト（白い線）
 tile.asphalt_unlocalized.yellow_line.name=アスファルト（黄色の線）
 tile.asphalt_unlocalized.double_white_line.name=アスファルト（白い二重線）
 tile.asphalt_unlocalized.double_yellow_line.name=アスファルト（黄色の二重線）
-tile.asphalt_unlocalized.slanted_white_line.name=アスファルト（白いスラッシュ）
-tile.asphalt_unlocalized.slanted_yellow_line.name=アスファルト（黄色のスラッシュ）
-tile.asphalt_unlocalized.slanted_double_white_line.name=アスファルト（白い二重スラッシュ）
-tile.asphalt_unlocalized.slanted_double_yellow_line.name=アスファルト（黄色の二重スラッシュ）
+tile.asphalt_unlocalized.slanted_white_line.name=アスファルト（白い斜め線）
+tile.asphalt_unlocalized.slanted_yellow_line.name=アスファルト（黄色の斜め線）
+tile.asphalt_unlocalized.slanted_double_white_line.name=アスファルト（白い二重斜め線）
+tile.asphalt_unlocalized.slanted_double_yellow_line.name=アスファルト（黄色の二重斜め線）
 
-itemGroup.inc=Inception
+itemGroup.inc=Inception（インセプション）
 
 tile.inc_carpet_unlocalized_0.name=カーペット 1
 tile.inc_carpet_unlocalized_1.name=カーペット 2
@@ -33,3 +33,12 @@ tile.inc_carpet_unlocalized_14.name=カーペット 15
 tile.inc_carpet_unlocalized_15.name=カーペット 16
 tile.inc_carpet0_unlocalized_0.name=カーペット 17
 tile.inc_carpet0_unlocalized_1.name=カーペット 18
+tile.inc_asphalt_unlocalized.name=アスファルト
+tile.inc_marble_unlocalized.default.name=大理石
+tile.inc_marble_unlocalized.white.name=大理石（白）
+tile.inc_marble_unlocalized.black.name=大理石（黒）
+tile.inc_marble_unlocalized.blue.name=大理石（青）
+tile.inc_marble_unlocalized.gray.name=大理石（グレー）
+tile.inc_marble_unlocalized.rough_black.name=大理石（ラフで黒）
+tile.inc_marble_unlocalized.dark_gray.name=大理石（ダークグレー）
+tile.inc_marble_unlocalized.random.name=大理石（ランダム）
