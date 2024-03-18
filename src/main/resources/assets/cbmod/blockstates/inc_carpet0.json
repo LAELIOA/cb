@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "type=0": { "model": "cbmod:inception/carpet/inc_carpet0_0_model" },
+    "type=1": { "model": "cbmod:inception/carpet/inc_carpet0_1_model" }
+  }
+}

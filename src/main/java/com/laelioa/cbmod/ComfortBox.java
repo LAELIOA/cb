@@ -15,6 +15,7 @@ public class ComfortBox {
     public static CommonProxy proxy;
 
     public static CreativeTabs roadTab = new CbTab("road");
+    public static CreativeTabs incTab = new CbTab("inc");
 
     @EventHandler
     public void preInit(FMLPreInitializationEvent event) {

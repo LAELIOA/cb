@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "normal": { "model": "cbmod:inception/inc_asphalt_model" }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "type=default": { "model": "cbmod:inception/marble/inc_marble_default_model" },
+    "type=white": { "model": "cbmod:inception/marble/inc_marble_white_model" },
+    "type=black": { "model": "cbmod:inception/marble/inc_marble_black_model" },
+    "type=blue": { "model": "cbmod:inception/marble/inc_marble_blue_model" },
+    "type=gray": { "model": "cbmod:inception/marble/inc_marble_gray_model" },
+    "type=rough_black": { "model": "cbmod:inception/marble/inc_marble_rough_black_model" },
+    "type=dark_gray": { "model": "cbmod:inception/marble/inc_marble_dark_gray_model" },
+    "type=random": { "model": "cbmod:inception/marble/inc_marble_random_model" }
+  }
+}
